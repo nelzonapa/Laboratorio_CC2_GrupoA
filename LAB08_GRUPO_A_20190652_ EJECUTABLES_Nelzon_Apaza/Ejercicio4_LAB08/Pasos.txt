@@ -1,0 +1,12 @@
+/*
+4. Defina una clase Circulo derivada de la clase Elipse.
+
+PASOS:
+1. Tomamos como ejemplo a la clase ELIPSE del ejercicio 2
+2. Creamos la clase Circulo
+    Atributos:
+        - El mismo radio
+    Métodos:
+        - area()
+        - diametro()
+*/

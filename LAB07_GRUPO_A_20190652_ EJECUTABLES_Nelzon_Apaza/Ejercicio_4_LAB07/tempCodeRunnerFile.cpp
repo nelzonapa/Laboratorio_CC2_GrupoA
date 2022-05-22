@@ -1,0 +1,1 @@
+    disquitos.mostrar_toda_info();

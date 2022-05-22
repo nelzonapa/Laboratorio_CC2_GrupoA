@@ -1,0 +1,15 @@
+/*
+5. Realice un programa que defina varias formas diferentes, cree un vector de
+punteros de la clase Forma que apunten a los objetos creados. El programa debe
+realizar un bucle que recorra todas las formas, las ponga todas del mismo color y
+las mueva a una determinada posición.
+
+PASOS:
+ANTES:
+Juntamos las formas que avanzamos en los anteriores ejercicios como ejemplo.
+1. crear un vector de punteros de la clase FORMA (*objeto)🎉
+2. Debes de hacer un bucle (for) para recorrer todas las figuras🎉
+    - A la vez este bucle debe de poner el mismo color en todas las formas🎉
+    - Y las ponga en una determinada posición.🎉
+
+*/

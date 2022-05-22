@@ -1,0 +1,18 @@
+/*
+
+EJERCICIO 2:
+Crear una clase COLOR que matenga 3 VALORES(RGB). Una segunda clase de Material, tendrá como información
+una variable de texto que describa algun material (Ejm: Madera, vidrio, plastico,etc) Una tercera clase
+OBJETOS, deberá de eheredar contenido de ambas clases con la finalidad de describir diferentes objetos en
+cuanto a color y el material (Ejm: Madera de color café y material de plástico).
+
+Todo lo desarrollado se encuentra en los demás archivos .h y .cpp
+
+PASOS:
+1. Creamos la class COLOR.
+    1.1 Atributos: 3 colores(rojo, verde y azul)
+2. Segunda clase MATERIAL.
+    2.1 Atributos: Materiales(madera,vidrio y plástico)
+3. Class OBJETOS: HEREDERO de ambas clases anteriores.
+    3.1 Métodos: Describir objetos(Usará los atributos de las 2 clases anteriores)
+*/

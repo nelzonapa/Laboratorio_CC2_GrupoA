@@ -1,0 +1,26 @@
+/*
+PASOS:
+1. Creamos la clase FORMA (padre)
+    Atributos:
+        - Color
+        - Coordenada del centro de la forma (Punto(x,y))
+        - Nombre de la forma (cada letra em array_puntero_char*)//Posible cambio de string a char
+    Métodos:
+        - Imprimir()//USO DEL POLIMORFISMO MEDIANTE (VIRTUAL)
+        - Obtener(get_color) y cambiar(set_color) color
+2. Crear clase HIJA: RECTANGULO
+    Atributos:
+        - lado menor y mayor
+    Métodos:
+        - Imprimir(): De qué trata el rectangulo://USO DEL POLIMORFISMO MEDIANTE (VIRTUAL)
+            - Nombre, color, centro y lados.
+        #USAR LA FUNCIÓN IMPRIMIR DE LA CLASE PADRE para
+        realizar parte del trabajo.
+        - Area(lado menor * lado mayor)
+        - perímetro. (2 * lado menor + 2 * lado mayor).
+        - Cambiar tamaño(): Trabajar con una escala,EJEMPLO: 
+        Si escala es 2, el tamaño se duplica, si es 0,5 se reduce
+        a la mitad.
+3. Usarlo todo en un main()
+
+*/

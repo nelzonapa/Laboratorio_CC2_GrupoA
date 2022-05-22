@@ -1,0 +1,11 @@
+/*
+3. Defina una clase Cuadrado derivada de la clase Rectángulo.
+PASOS:
+1. Tomaremos como ejemplo a la clase RECTANGULO del ejercicio 1
+2. Creamos la hija clase CUADRADO.
+    Atributos:
+        - Un lado (todos son iguales) Uso de los datos de la clase RECTANGULO
+    Métodos: (Posible uso de virtual)
+        - area()
+        - perimetro()
+*/

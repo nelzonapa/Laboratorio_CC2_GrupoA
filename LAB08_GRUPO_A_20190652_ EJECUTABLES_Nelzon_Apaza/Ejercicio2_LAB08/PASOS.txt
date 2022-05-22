@@ -1,0 +1,14 @@
+/*
+2. Defina una clase Elipse derivada de forma. Recordatorio: una elipse queda
+definida por su radio mayor (R) y su radio menor (r), tal que el área de una elipse
+es igual a π*(R*r).
+
+PASOS:
+1. CLASE FORMA del ejercicio anterior
+2. Crear otra clase Elipse
+    Atributos:
+        - Radio_mayor-->(R)
+        - Radio_menor-->(r)
+    Métodos:
+        - Area_elipse()=π*(R*r)
+*/
